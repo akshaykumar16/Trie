@@ -7,7 +7,7 @@ package trie;
 
 /**
  *
- * @author Suneel14
+ * @author Akshay16
  */
 public class Node {
     private String chara;
